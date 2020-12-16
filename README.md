@@ -1,2 +1,2 @@
-# macOS_InterfacesList
-Getting info about your Mac interfaces.
+# Mac' Network Interfaces
+Getting info about your Mac' network interfaces.
